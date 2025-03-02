@@ -1,5 +1,9 @@
 # Unit Converter
 
+![Android](https://img.shields.io/badge/Platform-Android-green.svg)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 ## Overview
 
 The **Unit Converter** is a simple Android application built using Jetpack Compose. It allows users to convert between different length units, including:
